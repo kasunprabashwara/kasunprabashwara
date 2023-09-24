@@ -45,6 +45,6 @@ I have experience in the following areas:
 
 I believe in the power of collaboration. Let's connect and share ideas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-prabashwara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-prabashwara-045b32265/)
 
 Feel free to explore my repositories and projects [here](https://github.com/your-username?tab=repositories). Let's build something amazing together!
