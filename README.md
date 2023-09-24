@@ -21,9 +21,10 @@ Here are some of the technologies and tools I'm familiar with:
 
 ## 🚀 Current Projects
 
-I'm currently working on an exciting project:
+I'm currently working on Hotel and Restuarant MIS, this contains the following modules:
 
-- [Hotel Management System](https://github.com/your-username/hotel-management-system) - This system helps manage hotel bookings, room allocations, table reservations, food menu orders, and staff management.
+- [Virtual Waiter](https://github.com/kasunprabashwara/virtual_waiter) - This system helps to manage table reservations, food menu orders.
+- [Order manager](https://github.com/thiva-k/Restaurant-Order-Manager) - This system helps to manage, track and update the orders of the customers.
 
 ## 🌱 Currently Learning
 
